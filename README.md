@@ -9,6 +9,6 @@ El proyecto se hizo con el fin de interactuar con el espectador, usando recursos
 Aunque la imagen referencial es un póster representativo del estilo, contiene los elementos que caracterizan este movimiento, caracterizado por geometrias simetricas y asimetricas, ilusiones visules, paletas de colores complementarias e impactantes, etc..
 En el proyecto de solemne se aprecia un texto en blanco en tipografia GARAMOND ue dicta OPTICAL ART, una grilla de ellipses en un fondo naranja que van siendo modificadas dependiendo de la posicion del ccursor que ademas va acompañadp de una aureola que tambien cambia su color
 
-![imagen reerencial](<img width="736" height="1051" alt="Optical art poster - 30x40 cm" src="https://github.com/user-attachments/assets/d3f38a1a-ae3f-4c81-9baa-1f27e8bedd36" />)
+![imagen reerencial]<img width="736" height="1051" alt="Optical art poster - 30x40 cm" src="https://github.com/user-attachments/assets/d3f38a1a-ae3f-4c81-9baa-1f27e8bedd36" />
 
 
